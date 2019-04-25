@@ -10,3 +10,4 @@ let person = {
 };
 
 person.greet();
+// .
